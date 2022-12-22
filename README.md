@@ -1,2 +1,2 @@
 # Major_Project
-Major Project Report for Final Year Project Submisssion. The project is titled as " Multimodal Emotion Recognition and Personality Assessment" .
+Major Project Report for Final Year Project Submisssion. The project is titled as " Multimodal Emotion Recognition and Personality Assessment" . The project incorporates distinct Deep Learning Techniques to extract out emotion based information from multimodal data and presents it to the user as an  overall assessment of the evaluated emotion over a period of time which the entire duration for which the data is supplied.
